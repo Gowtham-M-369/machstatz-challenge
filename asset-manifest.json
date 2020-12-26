@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/machstatz-challenge/static/js/main.283db90b.chunk.js",
+    "main.js.map": "/machstatz-challenge/static/js/main.283db90b.chunk.js.map",
+    "runtime-main.js": "/machstatz-challenge/static/js/runtime-main.c5be6fa8.js",
+    "runtime-main.js.map": "/machstatz-challenge/static/js/runtime-main.c5be6fa8.js.map",
+    "static/css/2.8cfacc97.chunk.css": "/machstatz-challenge/static/css/2.8cfacc97.chunk.css",
+    "static/js/2.c0267bc1.chunk.js": "/machstatz-challenge/static/js/2.c0267bc1.chunk.js",
+    "static/js/2.c0267bc1.chunk.js.map": "/machstatz-challenge/static/js/2.c0267bc1.chunk.js.map",
+    "index.html": "/machstatz-challenge/index.html",
+    "static/css/2.8cfacc97.chunk.css.map": "/machstatz-challenge/static/css/2.8cfacc97.chunk.css.map",
+    "static/js/2.c0267bc1.chunk.js.LICENSE.txt": "/machstatz-challenge/static/js/2.c0267bc1.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/machstatz-challenge/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5be6fa8.js",
+    "static/css/2.8cfacc97.chunk.css",
+    "static/js/2.c0267bc1.chunk.js",
+    "static/js/main.283db90b.chunk.js"
+  ]
+}
